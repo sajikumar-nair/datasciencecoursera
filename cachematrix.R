@@ -1,5 +1,5 @@
-## makeCacheMatrix and cacheSolve functions and its uses.
-## makeCacheMatrix a matrix and cacheSolve creates the inverse. More details given as comments
+## Functions - makeCacheMatrix and cacheSolve.
+## makeCacheMatrix function creates a matrix and cacheSolve creates the inverse. More details given as comments
 ## along with the functions below
 
 ## makeCacheMatrix function creates a special matrix object that can cache its inverse.
